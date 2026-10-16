@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "title": "Mehmet Akif Çakır — Mekatronik, Rust ve Robotik",
+    "description": "Mekatronik mühendisliği öğrencisi Mehmet Akif Çakır. Gömülü sistemler, Rust, robotik ve açık kaynak projeleri."
+  },
+  "common": {
+    "skip": "İçeriğe geç",
+    "home": "Ana sayfa",
+    "downloadCv": "CV'yi indir",
+    "externalLink": "Yeni sekmede açılır",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "nav": {
+    "about": "Hakkımda",
+    "projects": "Projeler",
+    "contact": "İletişim",
+    "menu": "Menüyü aç",
+    "close": "Menüyü kapat",
+    "command": "Komut menüsünü aç"
+  },
+  "controls": {
+    "light": "Açık",
+    "dark": "Koyu",
+    "system": "Sistem",
+    "theme": "Görünüm",
+    "language": "Dil",
+    "effects": "Efektler",
+    "full": "Tam",
+    "lite": "Hafif"
+  },
+  "command": {
+    "title": "Komut menüsü",
+    "search": "Bir bölüm veya işlem ara…",
+    "empty": "Eşleşen sonuç yok.",
+    "sections": "Bölümler",
+    "actions": "İşlemler",
+    "copyEmail": "E-posta adresini kopyala",
+    "copied": "E-posta adresi kopyalandı.",
+    "switchLanguage": "İngilizceye geç",
+    "toggleTheme": "Görünümü değiştir"
+  },
+  "hero": {
+    "eyebrow": "Mekatronik · Gömülü sistemler · Açık kaynak",
+    "edition": "Portföy / REV A",
+    "instrumentTitle": "FIG. 01 / Kinematik",
+    "systemLabel": "SYS / MAC",
+    "greeting": "Merhaba, ben",
+    "name": "Mehmet Akif Çakır",
+    "headline": "Fiziksel dünyaya kod yazıyorum.",
+    "description": "Mekatronik mühendisliği okuyorum. Kontrol sistemleri, Rust ve robotik üzerine çalışıyor; öğrendiklerimi açık, incelenebilir projelere dönüştürüyorum.",
+    "explore": "Projeleri incele",
+    "contact": "İletişime geç",
+    "location": "Türkiye · Europe/Istanbul",
+    "kicker": "Donanımdan karara, fikirden prototipe.",
+    "figure": "Robot kol · kinematik çalışma",
+    "annotation": "Kavramsal çizim",
+    "modelLabel": "Robot kolun kavramsal teknik çizimi; gerçek bir ürün veya tamamlanmış proje değildir."
+  },
+  "about": {
+    "eyebrow": "01 / Yaklaşım",
+    "title": "Önce sistemi anla. Sonra sadeleştir.",
+    "description": "Yazılımın sensörler, motorlar ve gerçek dünyanın sınırlarıyla buluştuğu yer ilgimi çekiyor. Küçük ve anlaşılır arayüzler, yeniden üretilebilir örnekler ve sınırları açıkça yazılmış projeler geliştiriyorum.",
+    "education": "Eğitim",
+    "degree": "Mekatronik Mühendisliği · Lisans",
+    "secondEducation": "Anadolu Üniversitesi",
+    "secondDegree": "Yapay Zekâ Destekli Kodlama",
+    "firstEducation": "Manisa Celal Bayar Üniversitesi",
+    "embeddedFocus": "Gömülü sistemler ve Rust",
+    "roboticsFocus": "Robotik",
+    "openSourceFocus": "Açık kaynak"
+  },
+  "projects": {
+    "eyebrow": "02 / Kaynağı açık",
+    "title": "Kodu incele. Kararları gör.",
+    "description": "Büyük iddialar yerine incelenebilir işler. Her projenin mevcut kapsamı ve bir sonraki adımı depoda.",
+    "viewAll": "GitHub profilini aç",
+    "openSource": "Açık kaynak",
+    "rustLanguage": "Rust",
+    "rustBaseline": "Deterministik / Bağımlılıksız",
+    "recoverTickFigure": "01 / Rust",
+    "openRobotKitFigure": "02 / Robotik",
+    "repository": "Depoyu incele",
+    "recoverTickTitle": "RecoverTick",
+    "recoverTickDescription": "Gömülü kontrolcüler için bağımlılıksız Rust karar motoru. Deterministik durum geçişleri, sınırlı kurtarma ve doğrulanabilir tekrar yürütme.",
+    "recoverTickMeta": "Rust · no_std · MVP",
+    "openRobotKitTitle": "OpenRobotKit",
+    "openRobotKitDescription": "Yeniden kullanılabilir robotik araçları için erken aşamada bir başlangıç. Küçük bir Python motor soyutlamasıyla başlıyor.",
+    "openRobotKitMeta": "Python · Robotik · Erken geliştirme",
+    "aiTraderPaperTitle": "AI Trader Paper",
+    "aiTraderPaperDescription": "Ortak sanal portföy ve açık yürütme sınırlarıyla çevrimdışı araştırma prototipi. Yerel simülasyon aşamasında.",
+    "aiTraderPaperMeta": "Python · Simülasyon · Alfa"
+  },
+  "skills": {
+    "eyebrow": "03 / Çalışma alanları",
+    "title": "Tek bir disiplinin sınırında kalmıyorum.",
+    "embedded": "Gömülü sistemler ve Rust",
+    "embeddedDescription": "Deterministik yazılım, mikrodenetleyiciler, sensörler ve açık arayüzler.",
+    "biomedical": "3B modelleme ve üretim",
+    "biomedicalDescription": "Anatomik katmanlar, CAD, FDM ve SLA ile prototipleme.",
+    "cinema": "Yapay zekâ ve sinema",
+    "cinemaDescription": "Görsel anlatım, üretken video araçları ve n8n ile iş akışı otomasyonu.",
+    "ev": "Elektrikli araçlar ve bataryalar",
+    "evDescription": "Hücre kimyası, BMS, motor torku ve dayanıklılık üzerine öğrenme ve modelleme.",
+    "workshop": "Atölye",
+    "workshopDescription": "Bosch Professional ve Einhell platformlarıyla donanım ve prototipleme."
+  },
+  "contact": {
+    "eyebrow": "04 / Bağlantı kur",
+    "title": "Birlikte ne inşa edebiliriz?",
+    "description": "Staj, mühendislik projeleri veya açık kaynak üzerine konuşmak için bana yazabilirsin.",
+    "email": "E-posta gönder",
+    "copied": "E-posta adresi kopyalandı.",
+    "copyEmail": "E-posta adresini kopyala",
+    "copyFailed": "Kopyalama kullanılamıyor. E-posta bağlantısını kullanabilirsin."
+  },
+  "footer": {
+    "tagline": "Açık sistemler. Açık notlar.",
+    "time": "İstanbul saati",
+    "timezone": "Europe/Istanbul",
+    "deploy": "Son dağıtım",
+    "deployUnknown": "Dağıtım kaydı yok",
+    "effects": "Efektler",
+    "privacy": "Gizlilik",
+    "copyright": "Mehmet Akif Çakır"
+  },
+  "errors": {
+    "notFoundTitle": "Bu çizim sayfası bulunamadı.",
+    "notFoundDescription": "Bağlantı değişmiş olabilir. Ana sayfadan devam edebilirsin.",
+    "backHome": "Ana sayfaya dön",
+    "errorTitle": "Bir şeyler yolunda gitmedi.",
+    "errorDescription": "Sayfayı yeniden yüklemeyi deneyebilirsin.",
+    "retry": "Yeniden dene"
+  }
+}

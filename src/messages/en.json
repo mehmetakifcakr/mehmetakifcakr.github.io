@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "title": "Mehmet Akif Çakır — Mechatronics, Rust & Robotics",
+    "description": "Mechatronics engineering student Mehmet Akif Çakır. Embedded systems, Rust, robotics and open-source projects."
+  },
+  "common": {
+    "skip": "Skip to content",
+    "home": "Home",
+    "downloadCv": "Download CV",
+    "externalLink": "Opens in a new tab",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "close": "Close menu",
+    "command": "Open command menu"
+  },
+  "controls": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "theme": "Theme",
+    "language": "Language",
+    "effects": "Effects",
+    "full": "Full",
+    "lite": "Lite"
+  },
+  "command": {
+    "title": "Command menu",
+    "search": "Find a section or action…",
+    "empty": "No matching results.",
+    "sections": "Sections",
+    "actions": "Actions",
+    "copyEmail": "Copy email address",
+    "copied": "Email address copied.",
+    "switchLanguage": "Switch to Turkish",
+    "toggleTheme": "Change theme"
+  },
+  "hero": {
+    "eyebrow": "Mechatronics · Embedded systems · Open source",
+    "edition": "Portfolio / REV A",
+    "instrumentTitle": "FIG. 01 / Kinematics",
+    "systemLabel": "SYS / MAC",
+    "greeting": "Hi, I'm",
+    "name": "Mehmet Akif Çakır",
+    "headline": "Writing code for the physical world.",
+    "description": "I'm a mechatronics engineering student working with control systems, Rust and robotics. I turn what I learn into open, inspectable projects.",
+    "explore": "Explore projects",
+    "contact": "Get in touch",
+    "location": "Türkiye · Europe/Istanbul",
+    "kicker": "From hardware to decisions. From ideas to prototypes.",
+    "figure": "Robot arm · kinematics study",
+    "annotation": "Conceptual drawing",
+    "modelLabel": "A conceptual engineering drawing of a robot arm, representing neither a real product nor a completed project."
+  },
+  "about": {
+    "eyebrow": "01 / Approach",
+    "title": "Understand the system. Make it simpler.",
+    "description": "I'm interested in the point where software meets sensors, motors and real-world constraints. I build small interfaces, reproducible examples and projects with clearly documented limits.",
+    "education": "Education",
+    "degree": "Mechatronics Engineering · BSc",
+    "secondEducation": "Anadolu University",
+    "secondDegree": "AI-Assisted Coding",
+    "firstEducation": "Manisa Celal Bayar University",
+    "embeddedFocus": "Embedded & Rust",
+    "roboticsFocus": "Robotics",
+    "openSourceFocus": "Open source"
+  },
+  "projects": {
+    "eyebrow": "02 / Open source",
+    "title": "Read the code. Follow the decisions.",
+    "description": "Inspectable work, with its current scope and next steps documented in each repository.",
+    "viewAll": "Open GitHub profile",
+    "openSource": "Open source",
+    "rustLanguage": "Rust",
+    "rustBaseline": "Deterministic / Zero dependencies",
+    "recoverTickFigure": "01 / Rust",
+    "openRobotKitFigure": "02 / Robotics",
+    "repository": "Explore repository",
+    "recoverTickTitle": "RecoverTick",
+    "recoverTickDescription": "A zero-dependency Rust decision engine for embedded controllers. Deterministic transitions, bounded recovery and verified replay.",
+    "recoverTickMeta": "Rust · no_std · MVP",
+    "openRobotKitTitle": "OpenRobotKit",
+    "openRobotKitDescription": "An early foundation for reusable robotics tools, starting with a small Python motor abstraction.",
+    "openRobotKitMeta": "Python · Robotics · Early development",
+    "aiTraderPaperTitle": "AI Trader Paper",
+    "aiTraderPaperDescription": "An offline-first research prototype with a shared simulated portfolio and explicit execution limits. Local simulation only.",
+    "aiTraderPaperMeta": "Python · Simulation · Alpha"
+  },
+  "skills": {
+    "eyebrow": "03 / Areas of focus",
+    "title": "Working across disciplines.",
+    "embedded": "Embedded systems & Rust",
+    "embeddedDescription": "Deterministic software, microcontrollers, sensors and clear interfaces.",
+    "biomedical": "3D modelling & fabrication",
+    "biomedicalDescription": "Anatomical layers, CAD and prototyping with FDM and SLA.",
+    "cinema": "AI & cinema",
+    "cinemaDescription": "Visual storytelling, generative video tools and workflow automation with n8n.",
+    "ev": "EVs & batteries",
+    "evDescription": "Learning and modelling cell chemistry, BMS, motor torque and durability.",
+    "workshop": "Workshop",
+    "workshopDescription": "Hardware and prototyping with Bosch Professional and Einhell platforms."
+  },
+  "contact": {
+    "eyebrow": "04 / Connect",
+    "title": "What could we build together?",
+    "description": "Get in touch about internships, engineering projects or open-source collaboration.",
+    "email": "Send an email",
+    "copied": "Email address copied.",
+    "copyEmail": "Copy email address",
+    "copyFailed": "Copy is unavailable. You can use the email link."
+  },
+  "footer": {
+    "tagline": "Open systems. Open notes.",
+    "time": "Istanbul time",
+    "timezone": "Europe/Istanbul",
+    "deploy": "Last deployment",
+    "deployUnknown": "No deployment recorded",
+    "effects": "Effects",
+    "privacy": "Privacy",
+    "copyright": "Mehmet Akif Çakır"
+  },
+  "errors": {
+    "notFoundTitle": "This drawing sheet is missing.",
+    "notFoundDescription": "The link may have changed. You can continue from the home page.",
+    "backHome": "Back to home",
+    "errorTitle": "Something went wrong.",
+    "errorDescription": "Try loading this page again.",
+    "retry": "Try again"
+  }
+}
